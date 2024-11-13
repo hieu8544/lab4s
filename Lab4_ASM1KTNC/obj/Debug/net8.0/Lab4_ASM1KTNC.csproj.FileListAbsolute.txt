@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\bin\Debug\net8.0\Lab4_ASM1KTNC.exe
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\bin\Debug\net8.0\Lab4_ASM1KTNC.deps.json
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\bin\Debug\net8.0\Lab4_ASM1KTNC.runtimeconfig.json
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\bin\Debug\net8.0\Lab4_ASM1KTNC.dll
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\bin\Debug\net8.0\Lab4_ASM1KTNC.pdb
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\Lab4_ASM1KTNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\Lab4_ASM1KTNC.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\Lab4_ASM1KTNC.AssemblyInfo.cs
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\Lab4_ASM1KTNC.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\Lab4_ASM1KTNC.dll
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\refint\Lab4_ASM1KTNC.dll
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\Lab4_ASM1KTNC.pdb
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\Lab4_ASM1KTNC.genruntimeconfig.cache
+C:\Users\pc\source\repos\Lab4_ASM1KTNC\obj\Debug\net8.0\ref\Lab4_ASM1KTNC.dll
